@@ -9,11 +9,11 @@
 4. Сайт ArchiveReady
 
 ## Список сайтов
-1. co109.mskobr.ru
-2. gym1507uz.mskobr.ru
-3. sch1101uz.mskobr.ru
-4. sch1532uz.mskobr.ru
-5. sch51uz.mskobr.ru
+1. [co109.mskobr.ru](co109.mskobr.ru)
+2. [gym1507uz.mskobr.ru](gym1507uz.mskobr.ru)
+3. [sch1101uz.mskobr.ru](sch1101uz.mskobr.ru)
+4. [sch1532uz.mskobr.ru](sch1532uz.mskobr.ru)
+5. [sch51uz.mskobr.ru](sch51uz.mskobr.ru)
 
 ## Описание репозитория:
 Каждая папка посвящена одному сайту, название папки является адресом сайта. Внутри каждой папки находятся следующие файлы: README.md, [название сайта].cdx, [название сайта].db, [название сайта].txt, metawarc.png, metadata.jsonl, errors.txt, metawarc.db. В файле с разрешением txt лежит ссылка на файл архива [название сайта].warc.gz. В файлах metawarc.png, metadata.jsonl, errors.txt, metawarc.db показываются результаты работы библиотеки metawarc.
